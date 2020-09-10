@@ -1,0 +1,33 @@
+.General, .News, .Contacts, .AboutСompany, .HowToGet {
+    color: white;
+    width: 200px; /* ширина блоков*/
+    background: gray; /* цвет фона*/
+    border: 1px solid; /* Параметры границы */
+    padding: 10px; /* поля вокруг текста*/
+    margin: 7px /* значение отступов между блоков*/
+}
+
+.General:hover {
+    background: white;
+    color: black;
+}
+
+.News:hover {
+    background: white;
+    color: black;
+}
+
+.Contacts:hover {
+    background: white;
+    color: black;
+}
+
+.AboutСompany:hover {
+    background: white;
+    color: black;
+}
+
+.HowToGet:hover {
+    background: white;
+    color: black;
+}
